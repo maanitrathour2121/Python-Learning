@@ -1,3 +1,10 @@
+"""
+***
+* *
+***   
+
+"""
+
 n = int(input("Enter the number of rows: "))
 i = 0
 for i in range(1, n+1):
